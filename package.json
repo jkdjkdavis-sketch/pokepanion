@@ -1,0 +1,23 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkdjkdavis-sketch/pokepanion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkdjkdavis-sketch/pokepanion/issues"
+  },
+  "homepage": "https://github.com/jkdjkdavis-sketch/pokepanion#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
+}
